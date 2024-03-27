@@ -33,7 +33,7 @@ I solved problems and optimized algorithms, developing my ability to implement s
 
     1. Clone this repository with:
 
-        - `git clone git@github.com:NyPadilha/job-insights.git`
+        - `git clone git@github.com:NyPadilha/algorithms.git`
         - `cd  job-insights`
 
     Using Venv:
